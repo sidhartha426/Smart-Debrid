@@ -15,8 +15,10 @@ How to get started :
   
   run Command "node init.js" or "npm run init" in your project directory to initialize the app
   
-  then finish your Oauth flow to register the app on debrid link and get a access token
+  run Command "npm install" to install it's dependencies
   
+  then use Command "node main.js" or "npm start" and  finish your Oauth flow to register the app on debrid link and get a access token
+   
   then you are ready to go use Command "node main.js" or "npm start" to run the app
   
 
