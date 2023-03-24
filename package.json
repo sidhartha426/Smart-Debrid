@@ -1,0 +1,16 @@
+{
+  "name": "smart-debrid",
+  "version": "1.0.1",
+  "description": "An commandline tool for using DebridLink's services using it's API",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "Sidhartha Sankar Swain",
+  "type":"module",
+  "license": "MIT",
+  "dependencies": {
+    "clipboardy": "^3.0.0"
+  }
+}

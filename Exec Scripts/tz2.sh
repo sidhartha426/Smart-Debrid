@@ -1,0 +1,1 @@
+cat ../Download_Scripts/tz_download2.sh >> exec2.sh
