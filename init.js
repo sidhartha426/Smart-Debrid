@@ -3,6 +3,8 @@ import { mkdirSync, readFileSync, writeFileSync } from 'node:fs';
 mkdirSync("Scripts/Appauth/Data", { recursive: true });
 mkdirSync("Scripts/Seedbox/Data", { recursive: true });
 mkdirSync("Scripts/Downloader/Data", { recursive: true });
+mkdirSync("Download_Scripts", { recursive: true });
+
 
 const seedboxFiles = ['add_t_archive.json', 'add_t_history.json'];
 
