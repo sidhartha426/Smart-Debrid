@@ -30,5 +30,11 @@ Features of the app :
   
   It can effectively store and manage thousands of links
   
-  
+
+
+Video about how to get started [here](https://www.loom.com/share/7376563cb9a14aa6bd7aa239acdb7021)
+
+Video about the torrent section [here](https://www.loom.com/share/7385fea12ba64a148350080e59765234)
+
+
   
